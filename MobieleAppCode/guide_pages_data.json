@@ -1,0 +1,123 @@
+[
+  {
+    "page": "StartOfGuide",
+    "image": {
+      "assetPath": ""
+    },
+    "content": {
+      "title": "Would you like to go through the application with step-by-step instructions?",
+      "description": ""
+    },
+    "pageIndicator": 0
+  },
+  {
+    "page": "CleaningTheSkin",
+    "image": {
+      "assetPath": "assets/img/guide_pages/Quick_Start_Guide-02.jpg"
+    },
+    "content": {
+      "title": "EN: CLEAN THE BACKSIDE OF THE ARM",
+      "description": "Use alcohol wipes to clean the backside of the upper arm (green section)."
+    },
+    "pageIndicator": 1
+  },
+  {
+    "page": "RemovalOfLid",
+    "image": {
+      "assetPath": "assets/img/guide_pages/Quick_Start_Guide-03.jpg"
+    },
+    "content": {
+      "title": "EN: REMOVE TOP & LID LINER",
+      "description": "Remove the lid of the applicator by turning. Then, peel of the top liner (blue liner) from the tray."
+    },
+    "pageIndicator": 2
+  },
+  {
+    "page": "AlignCrooves",
+    "image": {
+      "assetPath": "assets/img/guide_pages/Quick_Start_Guide-04.jpg"
+    },
+    "content": {
+      "title": "EN: ALIGN GROOVES & COMBINE",
+      "description": "Align grooves of the applicator and the tray. Slide the applicator all the way down over the tray until the two parts click together.\n ⚠️ Do NOT click the button yet."
+    },
+    "pageIndicator": 3
+  },
+  {
+    "page": "RemoveBottomLiner",
+    "image": {
+      "assetPath": "assets/img/guide_pages/Quick_Start_Guide-05.jpg"
+    },
+    "content": {
+      "title": "EN: REMOVE BOTTOM LINER",
+      "description": "Peel off the bottom liner (green liner) from the tray. Avoid touching the inside of the tray as much as possible."
+    },
+    "pageIndicator": 4
+  },
+  {
+    "page": "PositioningOfDevice",
+    "image":{
+      "assetPath": "assets/img/guide_pages/Quick_Start_Guide-06.jpg"
+    },
+    "content": {
+      "title": "EN: POSITION DEVICE & HOLD",
+      "description": "Place the device on the cleaned area of the upper arm.\n ⚠️ Make sure the device is at least 3cm away from insulin sites, scars and stretch marks"
+    },
+    "pageIndicator": 5
+  },
+  {
+    "page": "PressButton",
+    "image": {
+      "assetPath": "assets/img/guide_pages/Quick_Start_Guide-07.jpg"
+    },
+    "content": {
+      "title": "EN: COMPRESS & PRESS BUTTON",
+      "description": "Push the device against your skin until it cannot compress anymore. Hold the device steady and press the button to apply the sensor."
+    },
+    "pageIndicator": 6
+  },
+  {
+    "page": "PressSensor",
+    "image": {
+      "assetPath": "assets/img/guide_pages/Quick_Start_Guide-08.jpg"
+    },
+    "content": {
+      "title": "EN: PRESS SENSOR",
+      "description": "Press down on the sensor gently for approximately 10s to make sure it is properly attached to your skin."
+    },
+    "pageIndicator": 7
+  },
+  {
+    "page": "ConnectToApp",
+    "image": {
+      "assetPath": "assets/img/guide_pages/Quick_Start_Guide-09.jpg"
+    },
+    "content": {
+      "title": "EN: CONNECT SENSOR TO APP",
+      "description": "Bring your smartphone(NFC on) close to the sensor to connect it to the Trendi app. Calibrate the sensor as instructed in the app and view your glucose readings whenever."
+    },
+    "pageIndicator": 8
+  },
+  {
+    "page": "ApplyOverpatch",
+    "image": {
+      "assetPath": "assets/img/guide_pages/Quick_Start_Guide-10.jpg"
+    },
+    "content": {
+      "title": "EN: APPLY OVERPATCH & RUB",
+      "description": "Carefully apply the overpatch on the sensor. Rub the overpatch  on the skin to smoothen it out and ensure it is properly attached."
+    },
+    "pageIndicator": 9
+  },
+  {
+    "page": "KeepApplicator",
+    "image": {
+      "assetPath":"assets/img/guide_pages/Quick_Start_Guide-11.jpg"
+    },
+    "content": {
+      "title": "EN: SEPERATE & KEEP APPLICATOR",
+      "description": "Separate the applicator and tray by pulling (slight force may be required). Screw the lid back onto the applicator and store it for further use. Discard the tray."
+    },
+    "pageIndicator": 10
+  }
+]
