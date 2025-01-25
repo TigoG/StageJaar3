@@ -1,0 +1,113 @@
+{
+    "general":{
+        "success": "Success",
+        "okay": "Ok",
+        "back": "Go Back",
+        "submit": "Submit",
+        "error": "Error",
+        "details": "Details"
+    },
+    "login": {
+        "email": "Email",
+        "password": "Password",
+        "login": "Login",
+        "forgot_password": "I forgot my password",
+        "new_user": "New user? ",
+        "register": "Sign up"
+    },
+    "register": {
+        "name": "First Name",
+        "surname": "Last Name",
+        "phonenumber": "Phone Number",
+        "birthdate": "Date of Birth",
+        "create_account": "Create Account",
+        "welcome": "Welcome! Please complete the form below to continue.",
+        "greetings": "Nice to meet you!",
+        "already_user": "Already have an account? Log in here.",
+        "terms": "By creating an account, I agree to the Privacy Policy and Terms of Service."
+    },
+    "forgot_password": {
+        "forgot_password": "Forgot your Password?",
+        "enter_email": "Enter your email to reset it",
+        "reset_password": "Reset Password",
+        "back": "Back to login",
+        "email_sent": "A password reset email has been sent."
+    },
+    "confirm_account": {
+        "comfirm_success": "Account confirmed successfully",
+        "resend": "A new confirmation code has been sent to your email.",
+        "confirm": "Confirm Your Account",
+        "enter_email": "Enter your email and the verification code sent to your email.",
+        "verification": "Verification Code",
+        "confirm_account": "Confirm Account",
+        "resend_code": "Resend verification code"
+    },
+    "settings": {
+        "select_language": "Select Language",
+        "settings": "settings"
+    },
+    "master": {
+        "profile": "Profile",
+        "dashboard": "Dashboard",
+        "connections": "Connections"
+    },
+    "profile": {
+        "name": "First Name",
+        "surname": "Last Name",
+        "email": "Email",
+        "phonenumber": "Phone number",
+        "birthdate": "Enter your date of birth (YYYY-MM-DD)",
+        "edit_profile": "Edit Profile",
+        "save": "Save Changes",	
+        "logout": "Logout",
+        "success": "Profile updated successfully",
+        "inbound": "Whose data can I see",
+        "outbound": "Who can see my data",
+        "change_password": "Change Password",
+        "delete_account": "Delete Account",
+        "cancel_edit": "Cancel Edit",
+        "general_info": "General Info"
+    },
+    "consent": {
+        "search": "Search for data.",
+        "add_request": "Invite someone to see your data",
+        "retry": "Retry.",
+        "no_results": "No connections found.",
+        "status": "Status",
+        "name": "Name",
+        "expires": "Valid Until",
+        "accept": "Give access",
+        "reject": "Reject",
+        "user": "Email Address",
+        "message": "Message (Optional)",
+        "cancel": "Cancel",
+        "select_expiry": "Select Expiry Date",
+        "request_success": "Data request added succesfully.",
+        "confirm_success": "Succesfully added person to see your data.",
+        "default_revoke_message": "User requested consent revocation",
+        "revoke": "Revoke Consent",
+        "revoke_reason_request": "Please provide a reason for revoking consent:",
+        "revoke_reason": "Reason (Optional)",
+        "revoke_success": "Data has been successfully revoked.",
+        "my_name": "Name is data person",
+        "other": "Email of invited person",
+        "requested_data": "Requested data",
+        "consent_confirmation_person": "Make sure that the person you want to share your data with has a trendi account linked to this email address",
+        "consent_agreement": "I understand that the trendi account with the email address above will have access to all of my glucose data until i cancel this connection"
+    },	
+    "error":{
+        "empty_email": "Email cannot be empty.",
+        "empty_password": "Password cannot be empty.",
+        "empty_verification": "Email and Verification Code cannot be empty.",
+        "email_invalid": "Email must be a valid email address.",
+        "empty_email_message": "Please enter a valid email address.",
+        "incorrect_params": "One or more parameters are incorrect.",
+        "no_user_data": "User data is not available",
+        "profile_error": "Error updating profile",
+        "no_consents": "No consent data available.",
+        "consent_error": "An error occurred while fetching consent data.",
+        "delete_account_error": "An error occurred while deleting the account.",
+        "consent_request_error": "Failed to add consent request. Try again",
+        "consent_confirm_error": "Failed to confirm consent. Try again"
+    }
+}

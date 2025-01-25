@@ -1,0 +1,53 @@
+{
+    "login": {
+        "email": "E-mail",
+        "password": "Wachtwoord",
+        "login": "Inloggen",
+        "forgot_password": "Ik ben mijn wachtwoord vergeten",
+        "new_user": "Nieuwe gebruiker? ",
+        "register": "Aanmelden"
+    },
+    "register": {
+        "name": "Voornaam",
+        "surname": "Achternaam",
+        "phonenumber": "Telefoonnummer",
+        "birthdate": "Geboortedatum",
+        "create_account": "Account aanmaken",
+        "welcome": "Welkom! Vul het onderstaande formulier in om door te gaan.",
+        "greetings": "Leuk je te ontmoeten!",
+        "already_user": "Heb je al een account? Log hier in.",
+        "terms": "Door een account aan te maken, ga ik akkoord met het privacybeleid en de servicevoorwaarden."
+    },
+    "forgot_password": {
+        "forgot_password": "Wachtwoord vergeten?",
+        "enter_email": "Voer je e-mail in om het te resetten",
+        "reset_password": "Wachtwoord resetten",
+        "back": "Terug naar inloggen",
+        "email_sent": "Een email om je wachtwoord te resetten is verstuurd."
+    },
+    "confirm_account": {
+        "comfirm_success": "Account succesvol bevestigd",
+        "resend": "Een nieuwe bevestigingscode is naar je e-mail verzonden.",
+        "confirm": "Bevestig je account",
+        "enter_email": "Voer je e-mail en de verificatiecode in die naar je e-mail is verzonden.",
+        "verification": "Verificatiecode",
+        "confirm_account": "Account bevestigen",
+        "resend_code": "Verificatiecode opnieuw verzenden"
+    },
+    "settings": {
+        "select_language": "Selecteer taal",
+        "settings": "Instellingen"
+    },
+    "master": {
+        "profile": "Profiel",
+        "dashboard": "Dashboard",
+        "connections": "Verbindingen"
+    },
+    "error": {
+        "empty_email": "E-mail mag niet leeg zijn",
+        "empty_password": "Wachtwoord mag niet leeg zijn",
+        "empty_verification": "E-mail en verificatiecode mogen niet leeg zijn",
+        "email_invalid": "E-mail moet een geldig e-mailadres zijn",
+        "incorrect_params": "Een of meer parameters zijn onjuist"
+    }
+}
