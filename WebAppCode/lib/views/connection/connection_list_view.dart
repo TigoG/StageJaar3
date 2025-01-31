@@ -5,8 +5,8 @@ import 'package:sen_gs_1_ca_connector_plugin/localization_service.dart';
 import 'package:sen_gs_1_ca_connector_plugin/consent/consent_models.dart';
 import 'package:sen_gs_1_ca_connector_plugin/consent/consent_service.dart';
 import 'package:sen_gs_1_web/controls/buttons/segmented_button.dart' as custom;
-import 'package:sen_gs_1_web/views/connection/consent_functions.dart';
 import 'package:dotted_border/dotted_border.dart';
+import 'package:sen_gs_1_ca_connector_plugin/consent/consent_functions.dart';
 
 class ConnectionListView extends StatefulWidget {
   final String userId;

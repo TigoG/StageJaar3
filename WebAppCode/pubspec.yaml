@@ -1,0 +1,43 @@
+name: sen_gs_1_web
+description: "A new Flutter web project."
+publish_to: 'none' # Prevents publishing to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.3
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8 # Optional: Include if using Cupertino icons
+  sen_gs_1_ca_connector_plugin:
+    path: SEN-GS-1-CA-Connector-Plugin
+  equatable: ^2.0.0
+  flutter_bloc: ^8.1.2
+  community_charts_flutter: ^1.0.2
+  intl: ^0.19.0
+  shared_preferences: ^2.2.2
+  amplify_flutter: ^2.0.0
+  amplify_auth_cognito: ^2.0.0
+  amplify_authenticator: ^2.0.0
+  amplify_api: ^2.0.0
+  fl_chart: ^0.35.0
+  dotted_border: ^2.1.0
+ 
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0 # For recommended coding practices
+  mockito: ^5.0.0 # For mocking objects in tests
+  build_runner: ^2.1.4
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/img/
+    - assets/localization/
+  fonts:
+    - family: TrendiCustomIcons
+      fonts:
+        - asset: assets/fonts/TrendiCustomIcons.ttf
